@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @CobyArambula
 - 👀 I’m interested in ... building applications in Java and C++
 - 🌱 I’m currently learning ... Haskell, Prolog, and C++
-- 📫 How to reach me ... email: cobya@email.sc.edu, Instagram: Coby.Arambula
+- 📫 How to reach me ... Email me at cobya@email.sc.edu, DM me on Instagram at @Coby.Arambula
