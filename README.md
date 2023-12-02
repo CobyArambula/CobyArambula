@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @CobyArambula
-- 👀 I’m interested in ... building applications in Python, Java and C++
-- 🌱 I’m currently learning ... Flutter and Firebase
-- 📫 How to reach me ... Email me at cobya@email.sc.edu
+- 👀 I’m interested in ... building applications in Javascript, Python, and Java
+- 🌱 I’m currently learning ... web development with Javascript, HTML and CSS
+- 📫 How to reach me ... Email me at cobyarambula@gmail.com
